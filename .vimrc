@@ -19,5 +19,6 @@ filetype plugin on
 " THE ONLY RULE YOU NEED
 " Ensure you place this below any other plugins or rules that effect your colors so it isn't overwritten
 " There is no need for common old .vimrc color hacks or aesthentic rules when using the Nova colorscheme as this one rule sets all other colorscheme related rules for you
+" This will work for the latest versions of terminal Vim, Neovim, and GUI Vim
 " If you are interested in what rules this one rule sets, see the "RESET" section of "https://github.com/trevordmiller/nova-vim/blob/master/colors/nova.vim"
 colorscheme nova
